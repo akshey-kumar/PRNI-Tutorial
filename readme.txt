@@ -1,3 +1,9 @@
+---------------------------------------------------------------------
+Neuronal and behavioural data analysis with machine learning methods
+---------------------------------------------------------------------
+
+This repository was created as part of the Pattern Recognition in Neuroimaging (PRNI) Virtual Summer School 2020 for teaching purposes. The tutorial shows how to analyze neuronal and behavioural data using machine learning techniques. You will see how a combination of agglomerative clustering and PCA can yield powerful visualisations of the data that help us draw insights on the relationship between behaviour and neuronal activity.
+
 --------------------------------------
 Calcium Imaging Datset from C. elegans
 --------------------------------------
